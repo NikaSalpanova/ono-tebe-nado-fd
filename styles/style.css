@@ -176,21 +176,19 @@
   padding: 48px 40px;
   background-size: cover;
   background-position: center;
+  z-index: -2;
 }
 
 .card_type_film {
   background-image: url(../images/card-lot-01.jpg);
-  z-index: -2;
 }
 
 .card_type_book {
   background-image: url(../images/card-lot-02.jpg);
-  z-index: -2;
 }
 
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
-  z-index: -2;
 }
 
 .card__header {
